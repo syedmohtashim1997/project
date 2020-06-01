@@ -1,0 +1,137 @@
+.navbar{
+  margin-top: 0px;
+  list-style-type: none;
+  text-decoration: none;
+  background-color: skyblue !important;
+}
+.nav .ul1 .act .anch{
+    background-color: #346de0;
+    color: aliceblue;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+  }
+  .nav .ul1 .acte .ancher{
+    padding: 10px;
+    text-align: center;
+  }
+  .nav .ul1 .acte:hover .ancher{
+    background-color: #346de0;
+    color: aliceblue;
+    border-radius: 15px;
+  }
+
+  .nav .ul1 .acte .an:hover{
+    background-color: #346de0;
+    color: aliceblue;
+    border-radius: 15px;
+  }
+  .nav .ul1 .acte .ch:hover{
+    background-color: #346de0;
+    color: aliceblue;
+    border-radius: 15px;
+  }
+  .nav .ul1 .acte .er:hover{
+    background-color: #346de0;
+    color: aliceblue;
+    border-radius: 15px;
+  }
+  .hea{
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 4px 5px red;
+  }
+  .img1{
+    height: 28px;
+  }
+
+  .image{
+    height: 600px;
+  }
+
+  .fa-user,.fa-shopping-cart{
+    font-size: 32px;
+    margin: 5px;
+    text-align: center;
+    margin-right: 20px;
+    color:  #346de0
+  }
+  .fa-truck,.fa-headphones,.fa-thumbs-o-up{
+
+    font-size: 40px !important;
+    color:  #346de0;
+    margin-right: 10px;
+  }
+  .card1,.card2,.card3{
+
+    display: flex;
+    width:300px;
+    height:100px;
+    background-color: white;
+    box-shadow: 2px 3px 4px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .row1{
+    height: 200px;
+  }
+  .cont{
+    
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .head{
+    text-align: center;
+    font-weight: bold;
+    color: #346de0;
+  }
+  .head>h1{
+    text-shadow: 2px 3px 5px red;
+  }
+  .product{
+    margin-top:30px;
+  }
+.card{
+  width: 200px;
+  height: auto;
+  margin: 10px;
+}
+@media (max-width:600px)
+{
+  .card{
+    margin-left: 120px;
+  }
+
+}
+.btn-outline-primary{
+  width: 100%;
+}
+.card-text{
+  margin-left: 8px;
+  font-weight: bold;
+  color: red;
+}
+.footer{
+  width: 100%;
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+  height: 45px;
+  margin-top: 20px;
+
+}
+.footer>h2{
+  text-shadow: 2px 4px 5px red;
+}
+
+.butt{
+  text-align: center;
+}
+.btn-outline-success{
+  width:50%;
+  border-radius: 50px;
+}

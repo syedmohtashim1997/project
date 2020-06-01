@@ -1,0 +1,113 @@
+.navbar{
+    margin-top: 0px;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: skyblue !important;
+  }
+  .nav .ul1 .act .anch{
+      background-color: #346de0;
+      color: aliceblue;
+      border-radius: 15px;
+      padding: 10px;
+      text-align: center;
+    }
+    .nav .ul1 .acte .ancher{
+      padding: 10px;
+      text-align: center;
+    }
+    .nav .ul1 .acte:hover .ancher{
+      background-color: #346de0;
+      color: aliceblue;
+      border-radius: 15px;
+    }
+  
+    .nav .ul1 .acte .an:hover{
+      background-color: #346de0;
+      color: aliceblue;
+      border-radius: 15px;
+    }
+    .nav .ul1 .acte .ch:hover{
+      background-color: #346de0;
+      color: aliceblue;
+      border-radius: 15px;
+    }
+    .nav .ul1 .acte .er:hover{
+      background-color: #346de0;
+      color: aliceblue;
+      border-radius: 15px;
+    }
+    .img1{
+      height: 28px;
+    }
+    .fa-user,.fa-shopping-cart{
+      font-size: 32px;
+      margin: 5px;
+      text-align: center;
+      margin-right: 20px;
+      color:  #346de0
+    }
+
+    .hea{
+      color: white;
+      font-weight: bold;
+      text-shadow: 2px 4px 5px red;
+    }
+
+.para{
+  text-align: justify;
+  background-color: royalblue;
+  color: white;
+  font-weight: bold;
+  
+}
+.para>p{
+  margin-left: 150px;
+}
+@media (max-width:600px){
+.para>p,.nav{
+  margin-right: 90px;
+}
+}
+.head{
+  text-align: center;
+  font-weight: bold;
+  color: #346de0;
+}
+.head>h1{
+  text-shadow: 2px 3px 5px red;
+}
+
+.contact{
+  text-align: center;
+  font-weight: bold;
+  color: #346de0;
+}
+.contact>h1{
+  text-shadow: 2px 3px 5px red;
+}
+.name{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 28px;
+  text-shadow: 2px 3px 5px rebeccapurple;
+}
+.card1{
+  width:auto;
+}
+.number{
+  font-weight: bold;
+margin-left: 10px;
+  color: #346de0;
+  font-size: 24px;
+}
+    .footer{
+      width: 100%;
+      background-color: royalblue;
+      color: white;
+      text-align: center;
+      height: auto;
+    
+    }
+    /* .footer>h2{
+      text-shadow: 2px 4px 5px red;
+    } */
